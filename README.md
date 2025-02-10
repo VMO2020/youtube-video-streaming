@@ -2,7 +2,7 @@
 
 ## REQUIREMENTS
 
-- FFmpeg installed (Download here)
+- FFmpeg installed [Download here](https://ffmpeg.org/download.html)
 - Node.js and Express
 - fluent-ffmpeg (Node.js wrapper for FFmpeg)
 
