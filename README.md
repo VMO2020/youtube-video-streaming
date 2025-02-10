@@ -36,7 +36,7 @@
 
 6- Go Live on YouTube:
 
-Go to YouTube Studio Live Dashboard `https://studio.youtube.com/`
+- Go to YouTube Studio Live Dashboard `https://studio.youtube.com/`
 
-Click Go Live → Stream.
+- Click Go Live → Stream.
 
